@@ -1,0 +1,15 @@
+com\example\angularback\repository\UserRepository.class
+com\example\angularback\controlers\FavoriteController.class
+com\example\angularback\exeptions\UserNotFoundExeption.class
+com\example\angularback\controlers\UserControler.class
+com\example\angularback\service\UserSercice.class
+com\example\angularback\AngularBackApplication.class
+com\example\angularback\CorsConfig.class
+com\example\angularback\service\CommentsService.class
+com\example\angularback\service\FavoriteService.class
+com\example\angularback\model\Comments.class
+com\example\angularback\repository\FavoriteRepository.class
+com\example\angularback\controlers\CommentsControler.class
+com\example\angularback\model\User.class
+com\example\angularback\repository\CommentsRepository.class
+com\example\angularback\model\Favorite.class
